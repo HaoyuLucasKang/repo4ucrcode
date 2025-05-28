@@ -1,0 +1,6 @@
+torch>=1.12
+transformers>=4.30
+datasets>=2.10
+trl
+scikit-learn
+wandb
